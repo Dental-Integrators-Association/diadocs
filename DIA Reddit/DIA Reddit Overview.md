@@ -11,7 +11,7 @@ The objective of the DIAUS Reddit page is to promote collaboration among members
 # Resources
 
 - [Link to the /r/DIAUS Reddit page](https://www.reddit.com/r/DIAUS/)
-- Link to community rules/guidelines (when available)
+- [Link to community rules/guidelines](https://github.com/DTC-Inc/diadocs/blob/main/DIA%20Reddit/DIA%20Reddit%20Guidelines.md)
 - [How to Use Reddit – Complete Beginner's Guide](https://www.youtube.com/watch?v=CUMaeH63suU)
 
 # Roadmap
