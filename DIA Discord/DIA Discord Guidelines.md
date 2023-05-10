@@ -37,7 +37,7 @@ Outlined in this document are the rules, regulations, and guidelines to particip
 
 # DIA Discord Admins & Moderators
 
-- Nate Smith | DTC Inc. [$discordNameHere](mailto:nate.smith@dtctoday.com)
-- Tom Goembel | Sunset Technologies $discordNaemeHers
+- Nate Smith | DTC Inc. netts#2142
+- Tom Goembel | Sunset Technologies SunsetTom#7300
 
 ![](RackMultipart20230508-1-5wjor2_html_d70e405a19583fa.png)
