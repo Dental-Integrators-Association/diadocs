@@ -14,9 +14,9 @@ This channel contains the FAQ. It will guide new users and existing users with c
 This is a live, interactive channel where users can ask for help from moderators & admins. 
 
 ### member-verify
-This is where users are verified as part of teams that are paying companies within the DIA organization. Please see [A Moderator SOP: Verifying Member Companies] for how we verify companies.
+This is where users are verified as part of teams that are paying companies within the DIA organization. Please see [MOD SOP: Verifying Member Companies](https://github.com/DTC-Inc/diadocs/blob/main/dia-discord/dia-discord-mod-sop-verifying-member-companies.md) for how we verify companies.
 
-### ntoficiation-pref
+### notification-pref
 This is in progress. This channel will soon allow users to select their notification prefence so mods & admins will rarely have to use the @everyone tag. You will, as the end user, only get notification on what you want.
 
 ## genearl
