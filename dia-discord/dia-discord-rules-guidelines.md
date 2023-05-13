@@ -1,6 +1,6 @@
 ![Shape1](RackMultipart20230508-1-5wjor2_html_926188c28ecc1564.gif)
 
-# DIA DISCORD GUIDELINES | 2023
+# DIA DISCORD RULES & GUIDELINES | 2023
 
 ­ ![](RackMultipart20230508-1-5wjor2_html_6fc70535ea91dbfb.png)
 
