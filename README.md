@@ -6,5 +6,8 @@ The idea is simple but profound: Not only are DIA members focused solely on dent
 
 In addition, because your DIA member is locally-based, you’ll get more personal, more reliable, more knowledgeable customer care than a national dealer could possibly deliver.
 
+### Resources
+- Website: https://dentalintegrators.org
+
 # diadocs
 The DIA. The dental technology integrators. This is the repo for their documentation.
