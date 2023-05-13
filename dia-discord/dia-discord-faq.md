@@ -2,12 +2,12 @@
 We have an awesome getting started guide [here](https://github.com/DTC-Inc/diadocs/blob/main/dia-discord/dia-discord-how-to-get-started.md). 
 
 ## What should I include in introducing myself?
-Your first name, last name optional.
-Your age.
-Your Role/Title at your company.
-Your company.
-Your region / state / country.
-What you want to achieve from being a part of the DIA?
+- Your first name, last name optional.
+- Your age.
+- Your Role/Title at your company.
+- Your company.
+- Your region / state / country.
+- What you want to achieve from being a part of the DIA?
 
 ## How do I get the Team <Company-Name> next to my name on the right?
 You can go to the #member-verify channel and react with your team's assigned emoji.
