@@ -9,7 +9,7 @@ DIA NextGen is a committee that belongs to [The DIA](https://dentalintegrators.o
 Discord is a popular communication platform designed for creating online communities where users can chat, voice call, and share media with each other. It's commonly used by gamers, but it has expanded to include communities focused on a wide range of interests. If you have technicians under the age of 30, there is a good bet they are already using it to either communicate with other colleagues in your organization or other friends that are technicians.  Discord allows users to create or join servers, which are essentially private chat rooms that can be customized with various channels, roles, and permissions.  This is what the DIA has created.
 
 ### DIA Discord Resources
-- [Documenation]https://github.com/DTC-Inc/diadocs/tree/main/DIA%20Discord
+- [Documenation](https://github.com/DTC-Inc/diadocs/tree/main/DIA%20Discord)
 - [How to get started?]
 - [Rules & Guidelines](https://github.com/DTC-Inc/diadocs/blob/main/DIA%20Discord/DIA%20Discord%20Guidelines.md)
 - [Invite Link](https://discord.gg/btMnH7GqMa)
