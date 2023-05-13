@@ -1,6 +1,6 @@
 ![Shape1](RackMultipart20230508-1-5wjor2_html_926188c28ecc1564.gif)
 
-DIA DISCORD GUIDELINES | 2023
+# DIA DISCORD GUIDELINES | 2023
 
 ­ ![](RackMultipart20230508-1-5wjor2_html_6fc70535ea91dbfb.png)
 
@@ -19,11 +19,10 @@ Outlined in this document are the rules, regulations, and guidelines to particip
   1. This includes piracy folks!
 5. Any sharing of resources must be publicly available.
 6. No advertising.
-7. New Channels must be approved by Discord Moderators & Admins.
-8. New Channels can only be approved by Discord Moderators & Admins.
-9. All channels must have their own guidelines that inherit these guidelines. There can be additional guidelines to follow per channel.
-10. All Discord Channels must have a description of the topic & its own guidelines to adhere to. Guidelines are automatically agreed to upon entering.
-11. All users joining the Discord Server must agree to these Guidelines before having the ability to join any channel except the entry point channel where these terms are agreed to.
+8. New channels & categories can only be created by Discord Moderators & Admins.
+9. All channels & categories must have their own rules that inherit these rules. There can be additional rules to follow per channel. If there are no rules set, then these ruels are assumed.
+10. All Discord channles & categories must have a description of the topic. 
+11. All users joining the Discord Server must agree to these rules before having the ability to join any channel except the entry point channel where these rules are agreed to.
 12. Moderators & Admins must be paying members of the Dental Integrators Association.
 
 # Topics
