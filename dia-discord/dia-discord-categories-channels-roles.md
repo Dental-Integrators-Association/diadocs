@@ -44,3 +44,22 @@ We're majorly dental IT companies.. so every other faulty application is discuss
 
 ### infrastructure
 Hey our infrastructure we support fails too or we make mistakes. Let's discuss solutions here!
+
+
+# Roles
+## Everyone
+The default role for the DIA's discord server. It cannot see any category or channel except #rules. @everyone must agree to the rules & guidelines before seeing and using the DIA's discord server.
+
+## Follower
+This is the default role users are assigned to once they agree, aka 👍 to Carl-bot's message in #rules, to the rules & guidelines. They can see & use almost the enterity of the DIA's discord server except for private channels that are for paying members only or specifically have further rules & guidelines.
+
+## Member
+This is the role users are assigned after going through #member-verify. They are picked a vanity team, but the @member role designates privelaged status and permissions with the DIA's discord server. They will have access to member only areas and wil be given priority spearker privelage just like admins & mods.
+
+## Mod
+This is a role a user is assigned to moderate, or basically enforce, the rules & guidelines. They can also manage the entirity of the DIA's discord server, but their main responsiblity is keeping order by enforcing the rules & guidelines to the best of their judgment. Their secondary responbility is helping all end users of the DIA discord server.
+
+## admin
+This is a role a user is assigned to administratate the DIA's discord server. Admins follow standard processes to ensure companies/teams are verified yearly as well as future processes. They are also responsible for driving change & new features. They will also be the main contributors & approvers to the DIA's discord server documentation.
+
+
