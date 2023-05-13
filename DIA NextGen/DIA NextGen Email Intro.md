@@ -21,13 +21,13 @@ Reddit, on the other hand, is a social news aggregation and discussion website w
 - Rules & Guidelines
 - Reddit Page
 
-# What is the goal for all of this?
+## What is the goal for all of this?
 The goal of creating a Discord or Reddit page for the DIA is to provide easy access to centralized platforms to connect and communicate with each other.  These platforms can help the DIA to build a strong community of like-minded individuals who are passionate about what we do.
 On Discord, members-only can chat in real-time, voice call, and share media with each other. This can help foster a community and allow for easy collaboration and coordination between members.
 On Reddit, the DIA created a subreddit where we can share news, updates, and other information with followers outside of the DIA membership. We can submit our own content related to the DIA’s mission, interests, and knowledge, which can lead to discussions and engagement within the community and ultimately a higher knowledge base of the DIA for new members and understanding of the organization by the dental community.
 
 
-# Why do I need to be a part of it?
+## Why do I need to be a part of it?
 Why do I need to be part of it?
 
 There are several reasons why you would want to be a part of the DIA NextGen
