@@ -28,7 +28,8 @@ We picked Discord because it is free to use, easy to use, and perfect for inter-
 - Complete documentation
   - ~~Channels List & Details~~
   - ~~Role List & Details~~
-  - Moderator Best Practices
+  - Moderator Best Practices.
+  - Getting started as a moderator.
   - ~~How do I get started? Guide~~
   - Membership Verification SOP
 - Recruit followers & members.
