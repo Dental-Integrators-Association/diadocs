@@ -45,9 +45,9 @@ In 2021, at a DIA conference in Cabo, Mexio, the attendee's at that DIA conferen
 Any DIA company team member that's a paying member. Only the company has to pay their dues for the year.
 
 # Members
-- Nate Smith DTC (Co-committe Lead)
-- Tom Goembel Sunset Technologies (Co-committee lead)
-- Clay Archer DPC (Github Approver & Influencer)
-- Michelle Hambridge (Communications Director)
+- Nate Smith | DTC (Co-committe Lead)
+- Tom Goembel | Sunset Technologies (Co-committee lead)
+- Clay Archer | DPC (Github Approver & Influencer)
+- Michelle Hambridge DIA | (Communications Director)
 
 ![](RackMultipart20230508-1-ww42nv_html_d70e405a19583fa.png)
