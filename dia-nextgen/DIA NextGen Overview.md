@@ -6,10 +6,21 @@ DIA NextGen Overview | 2023
 
 # DIA NextGen
 
-DIA NextGen is a committee that belongs to [The DIA](https://dentalintegrators.org/) to drive the next generation of DIA members, growth, and standardizing business technology.
+DIA NextGen is a committee that belongs to [The DIA](https://dentalintegrators.org/) to drive the next generation of DIA members, collaboration, growth, and standardizing business technology.
 
 ## What is the DIA?
+### We'll leave Dentistry to you. Leave the IT to us.
+The DIA is a network of leading independent dental technology integration firms from across the country.  It was formed to create and deliver a higher standard of quality and care for dental practice technology integration.
 
+The idea is simple but profound: Not only are DIA members focused solely on dental technology, they’re constantly speaking with each other about what’s working–and what isn’t. This enables DIA members to always be on top of the “best practices” regarding dental hardware and software, and to know what it takes to make it all work together optimally for you.
+
+In addition, because your DIA member is locally-based, you’ll get more personal, more reliable, more knowledgeable customer care than a national dealer could possibly deliver.
+
+## How was the DIA NextGen born?
+In 2021, at a DIA conference in Cabo, Mexio, the attendee's at that DIA conference decided on creating commitee's to help further develop the DIA. One of those commitees was the "Under 40 Commitee". Over the next year, that commitee shrunk. There are not that many under 40 members at the DIA, and one of the members was also leading another committee. In 2023, now being 2 members, met and decided to propose a more realistic comitee and merge the other ones with this. That proposal was warmly welcomed with excitement. At The Talking Stick Resort in Scottsdale, Arizona around 10:00 AM PST, the DIA NextGen was born. Now wea re more open, and more driven than ever before.
+
+### Resources
+- Website: https://dentalintegrators.org
 ### The Birth of DIA NextGen
 
 # Objectives
