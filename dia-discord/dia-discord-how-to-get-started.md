@@ -22,7 +22,7 @@ Currently, we have no official, very good automated way to verify employees of c
 
 ## Step 5: Other Resources
 Here is just a list of other resources that will help you along your Discord journey with the DIA. This will include things like FAQ, where how to become a Mod/admin will be answered.. future plans.. etc. 
-- [The DIA Discord Overview](https://github.com/DTC-Inc/diadocs/blob/main/DIA%20Discord/DIA%20Discord%20Overview.md)
-- [The DIA Discord FAQ]
-- [The DIA Discord Categories, Channels & Roles]
-- [The DIA Discord Rules & Gudelines](https://github.com/DTC-Inc/diadocs/blob/main/DIA%20Discord/DIA%20Discord%20Guidelines.md)
+- [The DIA Discord Overview](https://github.com/DTC-Inc/diadocs/blob/main/dia-discord/dia-discord-overview.md)
+- [The DIA Discord FAQ](https://github.com/DTC-Inc/diadocs/blob/main/dia-discord/dia-discord-faq.md)
+- [The DIA Discord Categories, Channels & Roles](https://github.com/DTC-Inc/diadocs/blob/main/dia-discord/dia-discord-categories-channels-roles.md)
+- [The DIA Discord Rules & Gudelines](https://github.com/DTC-Inc/diadocs/blob/main/dia-discord/dia-discord-rules-guidelines.md)
