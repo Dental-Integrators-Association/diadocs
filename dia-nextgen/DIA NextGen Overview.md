@@ -36,9 +36,9 @@ Influencing our organizations for the next generation of leaders to collaborate.
 
 # Resources
 
-- Github documentation source
-- [Discord invite link](https://discord.gg/9WdwFCUq2j)
-- Reddit Page
+- [Github documentation source](https://github.com/dtc-inc/diadocs)
+- [Discord invite link](https://discord.gg/btMnH7GqMa)
+- [Reddit Page](https://www.reddit.com/r/diaus)
 - [The DIA](https://dentalintegrators.org/)
 
 # Roadmap
