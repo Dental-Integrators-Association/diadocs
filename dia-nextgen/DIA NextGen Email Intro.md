@@ -24,8 +24,8 @@ Reddit, on the other hand, is a social news aggregation and discussion website w
 
 ### DIA Reddit Resources
 - [Documentation](https://github.com/DTC-Inc/diadocs/tree/main/dia-reddit)
-- [How to get started?]
-- [Rules & Guidelines](https://github.com/DTC-Inc/diadocs/blob/main/dia-reddit/DIA%20Reddit%20Guidelines.md)
+- [How to get started?](https://github.com/DTC-Inc/diadocs/blob/main/dia-reddit/dia-reddit-how-to-get-started.md)
+- [Rules & Guidelines](https://github.com/DTC-Inc/diadocs/blob/main/dia-reddit/dia-reddit-overview.md)
 - [Reddit Page](https://www.reddit.com/r/diaus)
 
 ## What is the goal for all of this?
