@@ -3,7 +3,7 @@
 Hello DIA Members. This note is coming directly from the DIA NextGen, which was born 04/18/23. We are sorry for the late start to our group. 
 
 ## What is DIA NextGen?
-DIA NextGen is a committee that belongs to [The DIA](https://dentalintegrators.org/) to drive the next generation of DIA members, growth, and standardizing business technology. Currently there are two notable projects being run by DIA NextGen, and we need all of the DIA's help to push them forward. We'rea asking for everyone's participation!
+DIA NextGen is a committee that belongs to [The DIA](https://dentalintegrators.org/) to drive the next generation of DIA members, growth, and standardizing business technology. Currently there are two notable projects being run by DIA NextGen, and we need all of the DIA's help to push them forward. These projects are The DIA Discord * The DIA Reddit Page. We'rea asking for everyone's participation!
 
 ## What is Discord?
 Discord is a popular communication platform designed for creating online communities where users can chat, voice call, and share media with each other. It's commonly used by gamers, but it has expanded to include communities focused on a wide range of interests. If you have technicians under the age of 30, there is a good bet they are already using it to either communicate with other colleagues in your organization or other friends that are technicians.  Discord allows users to create or join servers, which are essentially private chat rooms that can be customized with various channels, roles, and permissions.  This is what the DIA has created.
