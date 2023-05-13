@@ -10,7 +10,7 @@ Discord is a popular communication platform designed for creating online communi
 
 ### DIA Discord Resources
 - Documenation
-- Rules & Guidelines(https://github.com/DTC-Inc/diadocs/blob/main/DIA%20Discord/DIA%20Discord%20Guidelines.md)
+- [Rules & Guidelines(https://github.com/DTC-Inc/diadocs/blob/main/DIA%20Discord/DIA%20Discord%20Guidelines.md)]
 - Invite Link
 
 ## What is Reddit?
