@@ -17,7 +17,7 @@ The idea is simple but profound: Not only are DIA members focused solely on dent
 In addition, because your DIA member is locally-based, you’ll get more personal, more reliable, more knowledgeable customer care than a national dealer could possibly deliver.
 
 ## How was the DIA NextGen born?
-In 2021, at a DIA conference in Cabo, Mexio, the attendee's at that DIA conference decided on creating commitee's to help further develop the DIA. One of those commitees was the "Under 40 Commitee". Over the next year, that commitee shrunk. There are not that many under 40 members at the DIA, and one of the members was also leading another committee. In 2023, now being 2 members, met and decided to propose a more realistic comitee and merge the other ones with this. That proposal was warmly welcomed with excitement. At The Talking Stick Resort in Scottsdale, Arizona around 10:00 AM PST, the DIA NextGen was born. Now wea re more open, and more driven than ever before.
+In 2021, at a DIA conference in Cabo, Mexio, the attendee's at that DIA conference decided on creating commitee's to help further develop the DIA. One of those commitees was the "Under 40 Commitee". Over the next 2 years, that commitee shrunk. There are not that many under 40 members at the DIA, and one of the members was also leading another committee. In 2023, now being 2 members, met and decided to propose a more realistic commitee and merge the other ones with this. That proposal was warmly welcomed with excitement. At The Talking Stick Resort in Scottsdale, Arizona around 10:00 AM PST 4/15/23, the DIA NextGen was born. Now we are more open, and more driven than ever before.
 
 ### Resources
 - Website: https://dentalintegrators.org
