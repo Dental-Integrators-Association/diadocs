@@ -10,7 +10,7 @@ DIA NextGen is a committee that belongs to [The DIA](https://dentalintegrators.o
 
 ## What is the DIA?
 
-## The Birth of DIA NextGen
+### The Birth of DIA NextGen
 
 # Objectives
 
