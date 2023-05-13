@@ -12,6 +12,6 @@ In addition, because your DIA member is locally-based, you’ll get more persona
 # diadocs
 The DIA. The dental technology integrators. This is the repo for their documentation.
 
-# Development Standards
+# Development Best Practices
 - We use dashes for spaces in file names.
 - Every filename in this repository must be lowercase.
