@@ -2,7 +2,7 @@
 
 ## welcome
 ### rules
-The #rules channel explains all rules & gudelines to participate in The DIA's Discord server. They are the production rules. Whenever the [DIA Discord Rules & Guidelines](https://github.com/DTC-Inc/diadocs/blob/main/dia-discord/dia-discord-rules-guidelines.md) document is updated, this channel's pinned messages are updated with the latest rules & guidelines. This channel is also the only channel the role @everyone can see. This is also the channel the promoted invite link is linked too.
+The #rules channel explains all rules & guidelines to participate in The DIA's Discord server. They are the production rules. Whenever the [DIA Discord Rules & Guidelines](https://github.com/DTC-Inc/diadocs/blob/main/dia-discord/dia-discord-rules-guidelines.md) document is updated, this channel's pinned messages are updated with the latest rules & guidelines. This channel is also the only channel the role @everyone can see. This is also the channel the promoted invite link is linked too.
 
 ### welcome
 This channel welcomes every new member and instructs the to follow some best practices for new users.
