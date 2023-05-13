@@ -46,6 +46,9 @@ We're majorly dental IT companies.. so every other faulty application is discuss
 Hey our infrastructure we support fails too or we make mistakes. Let's discuss solutions here!
 
 
+## 
+
+
 # Roles
 ## Everyone
 The default role for the DIA's discord server. It cannot see any category or channel except #rules. @everyone must agree to the rules & guidelines before seeing and using the DIA's discord server.
