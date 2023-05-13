@@ -59,7 +59,7 @@ This is the role users are assigned after going through #member-verify. They are
 ## Mod
 This is a role a user is assigned to moderate, or basically enforce, the rules & guidelines. They can also manage the entirity of the DIA's discord server, but their main responsiblity is keeping order by enforcing the rules & guidelines to the best of their judgment. Their secondary responbility is helping all end users of the DIA discord server.
 
-## admin
+## Admin
 This is a role a user is assigned to administratate the DIA's discord server. Admins follow standard processes to ensure companies/teams are verified yearly as well as future processes. They are also responsible for driving change & new features. They will also be the main contributors & approvers to the DIA's discord server documentation.
 
 
