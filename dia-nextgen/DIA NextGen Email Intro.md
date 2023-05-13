@@ -1,6 +1,6 @@
 
 # Welcome To NextGen
-Hello DIA Members. This note is coming directly from the DIA NextGen, which was born 04/15/23. We are sorry for the late start to our group. 
+Hello DIA Members. This note is coming directly from the DIA NextGen, which was born 04/15/23. We are sorry for the late start to our group. Some of you may already know about the quiet launches of the DIA Discord & Reddit, so this NextGen introduction are those "official" launches!
 
 ## What is DIA NextGen?
 DIA NextGen is a committee that belongs to [The DIA](https://dentalintegrators.org/) to drive the next generation of DIA members, growth, and standardizing business technology. Currently there are two notable projects being run by DIA NextGen, and we need all of the DIA's help to push them forward. These projects are The DIA Discord & The DIA Reddit Page. We're asking for everyone's participation!
