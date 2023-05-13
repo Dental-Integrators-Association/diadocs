@@ -10,13 +10,15 @@ Discord is a popular communication platform designed for creating online communi
 
 ### DIA Discord Resources
 - Documenation
+- Rules & Guidelines
 - Invite Link
 
 ## What is Reddit?
 Reddit, on the other hand, is a social news aggregation and discussion website where users can submit content in the form of links, images, and text posts. Other users can then vote on these submissions, which determines their position on the site's front page and in various topic-based subreddits. Reddit has a wide range of communities, known as subreddits, that cover topics such as news, technology, gaming, music, movies, and more. Users can interact with each other through comments and private messages, and they can also create their own subreddits based on their interests.
 
 ### DIA Reddit Resources
-- Docuemtation
+- Documentation
+- Rules & Guidelines
 - Reddit Page
 
 # What is the goal for all of this?
