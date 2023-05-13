@@ -26,3 +26,4 @@ Here is just a list of other resources that will help you along your Discord jou
 - [The DIA Discord FAQ](https://github.com/DTC-Inc/diadocs/blob/main/dia-discord/dia-discord-faq.md)
 - [The DIA Discord Categories, Channels & Roles](https://github.com/DTC-Inc/diadocs/blob/main/dia-discord/dia-discord-categories-channels-roles.md)
 - [The DIA Discord Rules & Gudelines](https://github.com/DTC-Inc/diadocs/blob/main/dia-discord/dia-discord-rules-guidelines.md)
+- [Documentation](https://github.com/DTC-Inc/diadocs/tree/main/dia-discord)
