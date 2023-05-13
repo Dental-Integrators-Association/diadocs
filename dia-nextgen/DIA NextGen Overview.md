@@ -48,6 +48,6 @@ Any DIA company team member that's a paying member. Only the company has to pay 
 - Nate Smith | DTC (Co-committe Lead)
 - Tom Goembel | Sunset Technologies (Co-committee lead)
 - Clay Archer | DPC (Github Approver & Influencer)
-- Michelle Hambridge DIA | (Communications Director)
+- Michelle Hambridge | DIA (Communications Director)
 
 ![](RackMultipart20230508-1-ww42nv_html_d70e405a19583fa.png)
