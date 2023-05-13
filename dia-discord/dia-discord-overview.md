@@ -19,8 +19,8 @@ We picked Discord because it is free to use, easy to use, and perfect for inter-
 - [Discord invite link](https://discord.gg/btMnH7GqMa)
 - [How to use Discord (2022) Video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjiz6fyh-b-AhVNFFkFHdRNCeUQFnoECBgQAw&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOIqyPJQAgT4&usg=AOvVaw180l_QrEGjoK6IBIXXgEBs)
 - [A Beginner's Guide To Discord](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjiz6fyh-b-AhVNFFkFHdRNCeUQFnoECBMQAQ&url=https%3A%2F%2Fsupport.discord.com%2Fhc%2Fen-us%2Farticles%2F360045138571-Beginner-s-Guide-to-Discord&usg=AOvVaw2Y_u9W0Kssr2aNB5zSB5mv)
-- How to get started?
-- [The DIA Discord Guidelines (Includes Mod/Admin Contacts)](https://github.com/DTC-Inc/diadocs/blob/main/DIA%20Discord/DIA%20Discord%20Guidelines.md)
+- How to get started? (https://github.com/DTC-Inc/diadocs/blob/main/dia-discord/dia-discord-how-to-get-started.md)
+- [The DIA Discord Rules & Guidelines (Includes Mod/Admin Contacts)](https://github.com/DTC-Inc/diadocs/blob/main/dia-discord/dia-discord-rules-guidelines.md)
 )
 
 # Roadmap
