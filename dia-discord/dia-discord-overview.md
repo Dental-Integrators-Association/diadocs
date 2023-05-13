@@ -46,7 +46,8 @@ It is a public Discord server. You must accept the rules & conditions. In order 
 - Tom Goembel Sunset Technologies (Co-committee lead)
 - Clay Archer DPC (Github Approver & Influencer)
 - Ryan Mathur (Discord Mod)
-- Spencer NOVA (Member)
+- Chad Prindible (Discord Mod)
+- Joseph Owens (Discord Mod)
 - Michelle Hambridge (Communications Director)
 
 ![](RackMultipart20230508-1-idgln_html_d70e405a19583fa.png)
