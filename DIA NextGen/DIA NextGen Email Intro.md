@@ -9,17 +9,19 @@ DIA NextGen is a committee that belongs to [The DIA](https://dentalintegrators.o
 Discord is a popular communication platform designed for creating online communities where users can chat, voice call, and share media with each other. It's commonly used by gamers, but it has expanded to include communities focused on a wide range of interests. If you have technicians under the age of 30, there is a good bet they are already using it to either communicate with other colleagues in your organization or other friends that are technicians.  Discord allows users to create or join servers, which are essentially private chat rooms that can be customized with various channels, roles, and permissions.  This is what the DIA has created.
 
 ### DIA Discord Resources
-- Documenation
-- [Rules & Guidelines(https://github.com/DTC-Inc/diadocs/blob/main/DIA%20Discord/DIA%20Discord%20Guidelines.md)]
-- Invite Link
+- [Documenation]https://github.com/DTC-Inc/diadocs/tree/main/DIA%20Discord
+- [How to get started?]
+- [Rules & Guidelines](https://github.com/DTC-Inc/diadocs/blob/main/DIA%20Discord/DIA%20Discord%20Guidelines.md)
+- [Invite Link](https://discord.gg/btMnH7GqMa)
 
 ## What is Reddit?
 Reddit, on the other hand, is a social news aggregation and discussion website where users can submit content in the form of links, images, and text posts. Other users can then vote on these submissions, which determines their position on the site's front page and in various topic-based subreddits. Reddit has a wide range of communities, known as subreddits, that cover topics such as news, technology, gaming, music, movies, and more. Users can interact with each other through comments and private messages, and they can also create their own subreddits based on their interests.
 
 ### DIA Reddit Resources
-- Documentation
-- Rules & Guidelines
-- Reddit Page
+- [Documentation]
+- [How to get started?]
+- [Rules & Guidelines]
+- [Reddit Page]
 
 ## What is the goal for all of this?
 The goal of creating a Discord or Reddit page for the DIA is to provide easy access to centralized platforms to connect and communicate with each other.  These platforms can help the DIA to build a strong community of like-minded individuals who are passionate about what we do.
