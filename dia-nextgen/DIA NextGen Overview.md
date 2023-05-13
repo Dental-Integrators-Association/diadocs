@@ -5,7 +5,6 @@ DIA NextGen Overview | 2023
 ­ ![](RackMultipart20230508-1-ww42nv_html_6fc70535ea91dbfb.png)
 
 # DIA NextGen
-
 DIA NextGen is a committee that belongs to [The DIA](https://dentalintegrators.org/) to drive the next generation of DIA members, collaboration, growth, and standardizing business technology.
 
 ## What is the DIA?
@@ -24,34 +23,28 @@ In 2021, at a DIA conference in Cabo, Mexio, the attendee's at that DIA conferen
 ### The Birth of DIA NextGen
 
 # Objectives
-
-Driving openness.
-
-Influencing our organizations for the next generation of leaders to collaborate.
+- Driving openness.
+- Influencing our organizations for the next generation of leaders to collaborate.
+- Standardinzing technology practices.
 
 # Current Projects
-
 - DIA Discord
 - DIA Reddit
 
 # Resources
-
 - [Github documentation source](https://github.com/dtc-inc/diadocs)
 - [Discord invite link](https://discord.gg/btMnH7GqMa)
 - [Reddit Page](https://www.reddit.com/r/diaus)
 - [The DIA](https://dentalintegrators.org/)
 
 # Roadmap
-
 - Vendor strategy with more direct lines of communication
 - Standardizing Incident Response Plan
 
 # NextGen Membership Requirements
-
 Any DIA company team member that's a paying member. Only the company has to pay their dues for the year.
 
 # Members
-
 - Nate Smith DTC (Co-committe Lead)
 - Tom Goembel Sunset Technologies (Co-committee lead)
 - Clay Archer DPC (Github Approver & Influencer)
