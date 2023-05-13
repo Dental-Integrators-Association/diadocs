@@ -28,8 +28,8 @@ We picked Discord because it is free to use, easy to use, and perfect for inter-
 - Complete documentation
   - Channels List & Details
   - Role List & Details
-  - Moderator Guidelines
-  - How to join the DIA Discord Guide
+  - Moderator Best Practices
+  - How do I get started? Guide
   - Membership Verification SOP
 - Recruit followers & members.
 - Recruit moderators & admins.
