@@ -36,10 +36,10 @@ Outlined in this document are the rules, regulations, and guidelines to particip
 
 # DIA Discord Admins & Moderators
 
-- Nate Smith | DTC Inc. netts#2142
-- Tom Goembel | Sunset Technologies SunsetTom#7300
-- Chad Prindible | DTC Inc. Chadiicus#3557
-- Ryan Mathur | DTC Inc. darkram7#0994
-- Joeseph Owens | DTC Inc. jow3n5#7180
+- Nate Smith DTC netts#2142
+- Tom Goembel Sunset Technologies SunsetTom#7300
+- Chad Prindible DTC chad.prindible#9323
+- Ryan Mathur DTC darkram7#0994
+- Joeseph Owens DTC jow3n5#7180
 
 ![](RackMultipart20230508-1-5wjor2_html_d70e405a19583fa.png)
