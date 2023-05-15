@@ -18,7 +18,7 @@ You can go to the #member-verify channel and react with your team's assigned emo
 ## How do I become a moderator or admin?
  You must be part of a paying team/company of the DIA. You can request this by messaging an admin directly. 
 
-## How do I report problems with another server member?
+## How do I report problems with another server member or abuse of the #rules?
 Tag a mod in any chat, or message them privately. Please use discration where needed. This is your, the end user's, judgement call.
   
 ## How do I report a security flaw or bug with this Discord server?
