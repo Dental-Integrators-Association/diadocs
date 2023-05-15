@@ -46,7 +46,15 @@ We're majorly dental IT companies.. so every other faulty application is discuss
 Hey our infrastructure we support fails too or we make mistakes. Let's discuss solutions here!
 
 
-## 
+## Moderators
+### mod-chat
+This is a private channel for moderators only. 
+
+###modlog
+This channel is for any automod logs.
+
+###mod_reports
+This was created by @Ccarl-bot and we still don't know why.
 
 
 # Roles
