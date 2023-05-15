@@ -28,7 +28,7 @@ Tag a mod in any chat, or message them privately. Please use discration where ne
   Please submit a feature request at our DIA Github repository. https://github.com/dtc-inc/diadocs
   
 ## If I can't find answers here, where else may I go?
- Asking for help in the #help channel will get you somewhere. You may also visit our [documentation](https://github.com/DTC-Inc/diadocs/tree/main/dia-discord).
+ Asking for help in the #help channel will get you somewhere. You may also visit our documentation https://github.com/DTC-Inc/diadocs/tree/main/dia-discord.
 
 ## I'm a moderator or admin, where do I start? 
   For now, please talk about this in the #mod channel. Or help with this! https://github.com/DTC-Inc/diadocs/blob/main/dia-discord/dia-discord-mod-getting-started.md
