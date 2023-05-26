@@ -1,5 +1,5 @@
 ## Where do I get started?
-We have an awesome getting started guide [here](https://github.com/DTC-Inc/diadocs/blob/main/dia-discord/dia-discord-how-to-get-started.md). 
+We have an awesome getting started guide https://github.com/DTC-Inc/diadocs/blob/main/dia-discord/dia-discord-how-to-get-started.md. 
 
 ## What should I include in introducing myself?
 - Your first name, last name optional.
