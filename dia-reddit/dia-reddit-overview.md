@@ -18,6 +18,7 @@ The objective of the DIA Reddit page is to promote collaboration among members, 
 
 - Complete /r/DIA page buildout
   - Community guidelines
+  - Moderator guidelines
   - Branding, theme, flare
   - Initial content/scheduled posts
     - Info on future DIA meetings
