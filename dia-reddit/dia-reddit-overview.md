@@ -10,22 +10,28 @@ The objective of the DIA Reddit page is to promote collaboration among members, 
 
 # Resources
 
-- [Link to the /r/DIAUS Reddit page](https://www.reddit.com/r/DIAUS/)
+- [Link to the /r/DIA Reddit page](https://www.reddit.com/r/DIA/)
 - [Link to community rules/guidelines](https://github.com/DTC-Inc/diadocs/blob/main/DIA%20Reddit/DIA%20Reddit%20Guidelines.md)
 - [How to Use Reddit – Complete Beginner's Guide](https://www.youtube.com/watch?v=CUMaeH63suU)
 
 # Roadmap
 
 - Complete /r/DIA page buildout
-  - Community guidelines
-  - Branding, theme, flare
-  - Initial content/scheduled posts
+  - Post guidelines/initial content/scheduled posts
     - Info on future DIA meetings
-  - Links to other DIA resources
-    - Website
-    - Discord
+  - Build welcome message
+  - Research user flair
+  - Build removal reasons
+  - ~~Community guidelines
+  - ~~Branding, theme, flare
+  - ~~Links to other DIA resources
+    ~- Website
+    ~- Discord
+    ~- Github
+    ~- Linkedin
 - Recruit subscribers
 - Recruit moderators
+
 
 # /r/DIA Membership Requirements
 
