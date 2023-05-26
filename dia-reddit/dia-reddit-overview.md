@@ -1,4 +1,4 @@
-DIAUS Reddit Overview | 2023
+DIA Reddit Overview | 2023
 
 # What is Reddit?
 
@@ -6,7 +6,7 @@ Reddit is a social news aggregation and discussion website where users can share
 
 # Objective
 
-The objective of the DIAUS Reddit page is to promote collaboration among members, guests, and vendors. The platform will encourage the exchange of information and knowledge, promote teamwork, and increase productivity and profitability. The page will also serve as a marketing tool to attract new members by showcasing the association's benefits and goals.
+The objective of the DIA Reddit page is to promote collaboration among members, guests, and vendors. The platform will encourage the exchange of information and knowledge, promote teamwork, and increase productivity and profitability. The page will also serve as a marketing tool to attract new members by showcasing the association's benefits and goals.
 
 # Resources
 
@@ -16,7 +16,7 @@ The objective of the DIAUS Reddit page is to promote collaboration among members
 
 # Roadmap
 
-- Complete /r/DIAUS page buildout
+- Complete /r/DIA page buildout
   - Community guidelines
   - Branding, theme, flare
   - Initial content/scheduled posts
@@ -27,9 +27,9 @@ The objective of the DIAUS Reddit page is to promote collaboration among members
 - Recruit subscribers
 - Recruit moderators
 
-# /r/DIAUS Membership Requirements
+# /r/DIA Membership Requirements
 
-The DIAUS Reddit page is open to the public. Only requirements are to abide by the community rules. (Link to community rules/guidelines)
+The DIA Reddit page is open to the public. Only requirements are to abide by the community rules. (Link to community rules/guidelines)
 
 # Members
 
