@@ -5,6 +5,7 @@ The DIA NextGen highly suggest anyone that hasn't used Discrod before, or only h
 
 - [How to use Discord (2022) Video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjiz6fyh-b-AhVNFFkFHdRNCeUQFnoECBgQAw&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOIqyPJQAgT4&usg=AOvVaw180l_QrEGjoK6IBIXXgEBs)
 - [A Beginner's Guide To Discord](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjiz6fyh-b-AhVNFFkFHdRNCeUQFnoECBMQAQ&url=https%3A%2F%2Fsupport.discord.com%2Fhc%2Fen-us%2Farticles%2F360045138571-Beginner-s-Guide-to-Discord&usg=AOvVaw2Y_u9W0Kssr2aNB5zSB5mv)
+- [Download Discord](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86)
 
 ## Step 2: Joining The DIA's Discord
 You should now know what the invite link is. At least we hope. Next step is to click that invite link, in which the most current DIA Discord link looks like this https://discord.gg/btMnH7GqMa. 
