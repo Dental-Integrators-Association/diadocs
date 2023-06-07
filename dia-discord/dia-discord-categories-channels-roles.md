@@ -45,6 +45,23 @@ We're majorly dental IT companies.. so every other faulty application is discuss
 ### infrastructure
 Hey our infrastructure we support fails too or we make mistakes. Let's discuss solutions here!
 
+# the art of business
+### general business discussion
+This is where the managers, executives, and shareholders talk about general business.
+
+### dental markeplace stragetgizing
+
+# dia-nextgen
+### dia nextgen requests
+Make requests to the DIA NextGen committee here!
+
+### meeting room 1
+Meeting room 1 for the DIA NextGen Leadership
+
+### meeting room 2
+Meeting room 2 for the DIA NextGen Leadership
+
+### 
 
 ## Moderators
 ### mod-chat
