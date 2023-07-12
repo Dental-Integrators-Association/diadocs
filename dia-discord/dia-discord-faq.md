@@ -19,16 +19,18 @@ You can go to the #member-verify channel and react with your team's assigned emo
  Here! https://github.com/Dental-Integrators-Association/diadocs
 
 ## How do I become a moderator or admin?
- You must be part of a paying team/company of the DIA. You can request this by messaging an admin directly. 
+ You must be part of a paying team/company of the DIA. You can request this by submitting an issue at our GitHub. https://github.com/Dental-Integrators-Association/diadocs/issues. Please use "New Issue" at the top right hand corner and fill out the form.
+
+ The current requirements is to be a paying member of the DIA and recently active within 30 days, month to month.
 
 ## How do I report problems with another server member or abuse of the #rules?
 Tag a mod in any chat, or message them privately. Please use discration where needed. This is your, the end user's, judgement call.
   
 ## How do I report a security flaw or bug with this Discord server?
- Please submit a bug report at our DIA Github repository. https://github.com/Dental-Integrators-Association/diadocs
+ Please submit a bug report at our DIA Github repository. https://github.com/Dental-Integrators-Association/diadocs/issues. Please use "New Issue" at the top right hand corner and fill out the form.
   
 ## How do I request changes or new features to this Discord server?
-  Please submit a feature request at our DIA Github repository. https://github.com/Dental-Integrators-Association/diadocs
+  Please submit a feature request at our DIA Github repository. https://github.com/Dental-Integrators-Association/diadocs/issues. Please use "New Issue" at the top right hand corner and fill out the form.
   
 ## If I can't find answers here, where else may I go?
  Asking for help in the #help channel will get you somewhere. You may also visit our documentation https://github.com/Dental-Integrators-Association/diadocs/tree/main/dia-discord.
