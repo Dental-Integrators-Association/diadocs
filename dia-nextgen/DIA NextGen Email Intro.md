@@ -6,26 +6,26 @@ Hello DIA Members. This note is coming directly from the DIA NextGen, which was 
 DIA NextGen is a committee that belongs to [The DIA](https://dentalintegrators.org/) to drive the next generation of DIA members, growth, and standardizing business technology. Currently there are two notable projects being run by DIA NextGen, and we need all of the DIA's help to push them forward. These projects are The DIA Discord & The DIA Reddit Page. We're asking for everyone's participation!
 
 ### DIA NextGen Resources
-- [Documentation](https://github.com/DTC-Inc/diadocs/blob/main/dia-nextgen/DIA%20NextGen%20Overview.md)
-- [DIA NextGen Overview](https://github.com/DTC-Inc/diadocs/blob/main/dia-nextgen/DIA%20NextGen%20Overview.md)
+- [Documentation](https://github.com/Dental-Integrators-Association/diadocs/blob/main/dia-nextgen/DIA%20NextGen%20Overview.md)
+- [DIA NextGen Overview](https://github.com/Dental-Integrators-Association/diadocs/blob/main/dia-nextgen/DIA%20NextGen%20Overview.md)
 
 ## What is Discord?
 Discord is a popular communication platform designed for creating online communities where users can chat, voice call, and share media with each other. It's commonly used by gamers, but it has expanded to include communities focused on a wide range of interests. If you have technicians under the age of 30, there is a good bet they are already using it to either communicate with other colleagues in your organization or other friends that are technicians.  Discord allows users to create or join servers, which are essentially private chat rooms that can be customized with various channels, roles, and permissions.  This is what the DIA has created.
 
 ### DIA Discord Resources
-- [Documenation](https://github.com/DTC-Inc/diadocs/tree/main/DIA%20Discord)
-- [How to get started?](https://github.com/DTC-Inc/diadocs/blob/main/dia-discord/dia-discord-how-to-get-started.md)
-- [FAQ](https://github.com/DTC-Inc/diadocs/blob/main/dia-discord/dia-discord-faq.md)
-- [Rules & Guidelines](https://github.com/DTC-Inc/diadocs/blob/main/DIA%20Discord/DIA%20Discord%20Guidelines.md)
+- [Documenation](https://github.com/Dental-Integrators-Association/diadocs/tree/main/DIA%20Discord)
+- [How to get started?](https://github.com/Dental-Integrators-Association/diadocs/blob/main/dia-discord/dia-discord-how-to-get-started.md)
+- [FAQ](https://github.com/Dental-Integrators-Association/diadocs/blob/main/dia-discord/dia-discord-faq.md)
+- [Rules & Guidelines](https://github.com/Dental-Integrators-Association/diadocs/blob/main/DIA%20Discord/DIA%20Discord%20Guidelines.md)
 - [Invite Link](https://discord.gg/btMnH7GqMa)
 
 ## What is Reddit?
 Reddit, on the other hand, is a social news aggregation and discussion website where users can submit content in the form of links, images, and text posts. Other users can then vote on these submissions, which determines their position on the site's front page and in various topic-based subreddits. Reddit has a wide range of communities, known as subreddits, that cover topics such as news, technology, gaming, music, movies, and more. Users can interact with each other through comments and private messages, and they can also create their own subreddits based on their interests.
 
 ### DIA Reddit Resources
-- [Documentation](https://github.com/DTC-Inc/diadocs/tree/main/dia-reddit)
-- [How to get started?](https://github.com/DTC-Inc/diadocs/blob/main/dia-reddit/dia-reddit-how-to-get-started.md)
-- [Rules & Guidelines](https://github.com/DTC-Inc/diadocs/blob/main/dia-reddit/dia-reddit-overview.md)
+- [Documentation](https://github.com/Dental-Integrators-Association/diadocs/tree/main/dia-reddit)
+- [How to get started?](https://github.com/Dental-Integrators-Association/diadocs/blob/main/dia-reddit/dia-reddit-how-to-get-started.md)
+- [Rules & Guidelines](https://github.com/Dental-Integrators-Association/diadocs/blob/main/dia-reddit/dia-reddit-overview.md)
 - [Reddit Page](https://www.reddit.com/r/diaus)
 
 ## What is the goal for all of this?

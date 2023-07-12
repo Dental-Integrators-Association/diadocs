@@ -24,4 +24,4 @@ a.	This includes piracy folks!
 #DIA Reddit Moderators
 •	Nate Smith | DTC Inc. nate.smith@dtctoday.com
 •	Tom Goembel | Sunset Technologies tom.goembel@sunsetsecure.com
-•	Clay Archer | DPC Technology carcher@dpctechnology.com
+•	Scott Leister | DTC Inc. scott.leister@dtctoday.com

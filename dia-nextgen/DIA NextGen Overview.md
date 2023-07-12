@@ -30,9 +30,10 @@ In 2021, at a DIA conference in Cabo, Mexio, the attendee's at that DIA conferen
 # Current Projects
 - DIA Discord
 - DIA Reddit
+- Incident Response Plan template(s)
 
 # Resources
-- [Github documentation source](https://github.com/dtc-inc/diadocs)
+- [Github documentation source](https://github.com/Dental-Integrators-Association/diadocs)
 - [Discord invite link](https://discord.gg/btMnH7GqMa)
 - [Reddit Page](https://www.reddit.com/r/diaus)
 - [The DIA](https://dentalintegrators.org/)
@@ -42,7 +43,7 @@ In 2021, at a DIA conference in Cabo, Mexio, the attendee's at that DIA conferen
 - Standardizing Incident Response Plan
 
 # NextGen Membership Requirements
-Any DIA company team member that's a paying member. Only the company has to pay their dues for the year.
+Any DIA company team member that's a paying member & wants to contribute to NextGen. Only the company has to pay their dues for the year.
 
 # Members
 - Nate Smith | DTC (Co-committe Lead)

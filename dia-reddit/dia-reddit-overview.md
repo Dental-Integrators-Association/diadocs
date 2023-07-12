@@ -11,7 +11,7 @@ The objective of the DIA Reddit page is to promote collaboration among members, 
 # Resources
 
 - [Link to the /r/DIA Reddit page](https://www.reddit.com/r/DIA/)
-- [Link to community rules/guidelines](https://github.com/DTC-Inc/diadocs/blob/main/DIA%20Reddit/DIA%20Reddit%20Guidelines.md)
+- [Link to community rules/guidelines](https://github.com/Dental-Integrators-Association/diadocs/blob/main/DIA%20Reddit/DIA%20Reddit%20Guidelines.md)
 - [How to Use Reddit – Complete Beginner's Guide](https://www.youtube.com/watch?v=CUMaeH63suU)
 
 # Roadmap

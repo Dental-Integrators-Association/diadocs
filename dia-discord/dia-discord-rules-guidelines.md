@@ -23,7 +23,7 @@ Outlined in this document are the rules, regulations, and guidelines to particip
 9. All channels & categories must have their own rules that inherit these rules. There can be additional rules to follow per channel. If there are no rules set, then these ruels are assumed.
 10. All Discord channles & categories must have a description of the topic. 
 11. All users joining the Discord Server must agree to these rules before having the ability to join any channel except the entry point channel where these rules are agreed to.
-12. Moderators & Admins must be paying members of the Dental Integrators Association.
+12. Moderators & Admins must be paying members of the Dental Integrators Association & must be active within the past 30 days month to month.
 
 # Topics
 
