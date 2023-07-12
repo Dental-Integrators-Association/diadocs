@@ -105,7 +105,7 @@ This is the default role users are assigned to once they agree, aka 👍 to Carl
 ## @member
 This is the role users are assigned after going through #member-verify. They are picked a vanity team, but the @member role designates privelaged status and permissions with the DIA's discord server. They will have access to member only areas and wil be given priority spearker privelage just like admins & mods.
 
-## @team-<comapny-name>
+## @team-comapny_name
 This role is a vanity rule for users that verify as paying company members for the DIA.
 
 ## @mod
