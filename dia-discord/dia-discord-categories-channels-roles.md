@@ -35,7 +35,7 @@ Talk about whatever. Just follow the rules!
 ### afk
 The silent room where people are sent manually or automatically if they're not active.
 
-## the-tech
+## the tech
 ### dental-apps
 Ugh..so many problems with dental apps right? Look no furhter, help is discussed right here!
 
@@ -45,29 +45,29 @@ We're majorly dental IT companies.. so every other faulty application is discuss
 ### infrastructure
 Hey our infrastructure we support fails too or we make mistakes. Let's discuss solutions here!
 
-### tech-lobby
+### tech lobby
 Talk about tech. Just follow the rules!
 
-### meeting-room-1
+### meeting room 1
 Meeting room 1 for scheduled meetings.
 
-### meeting-room-2
+### meeting room 2
 Meeting room 2 for scheduled meetings.
 
-## the-business
+## the business
 ### general-business
 This is where the managers, executives, and shareholders talk about general business.
 
 ### dental-industry
 Let's talk anything about the dental marketplace and its business here.
 
-### business-lobby
+### business lobby
 Talk about business. Just follow the rules!
 
-### meeting-room-1
+### meeting room 1
 Meeting room 1 for scheduled meetings.
 
-### meeting-room-2
+### meeting room 2
 Meeting room 2 for scheduled meetings.
 
 ## dia-nextgen
@@ -76,10 +76,10 @@ Make requests to the DIA NextGen committee here!
 
 ### dia-leadership-chat
 
-### meeting-room-1
+### meeting room 1
 Meeting room 1 for the DIA NextGen Leadership
 
-### meeting-room-2
+### meeting room 2
 Meeting room 2 for the DIA NextGen Leadership
 
 ### 
