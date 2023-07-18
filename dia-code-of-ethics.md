@@ -32,6 +32,7 @@ DIA members will always propose infrastructure solutions that follow these best 
 -	Provide secure tunneling across the public internet where a direct wire or Over the Air cannot be used.
 -	The ability to monitor the network solution for faults.
 -	The ability to monitor the network solution for security incidents.
+-   All Over the Air (OTA) solutions must be encrypted using at least AES-128 encryption. User authentication indiviudally is optional. OTA solutions meant for the public or guests to access do not require encyrption or user authenication.
 
 ## Data Lifecycle & Backups
 ### Data Lifecycle
